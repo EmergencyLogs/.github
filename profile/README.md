@@ -1,8 +1,18 @@
-## Patrick: „Es ist eingestellt auf ‚M‘ für ‚Mini‘! Wir stellen es einfach um (macht das) auf ‚W‘ für ‚Wambo‘!“
-## SpongeBob: „Ich weiß nicht … Ist Wambo ’n richtiges Wort?“
-## Patrick: „Na, hör mal! Weißt du, ich wambo, du wambo; er, sie, es wambo; wambo, wamboen, gewambot werden, gewambot haben …“
-## Thaddäus: (sieht hinunter) „Ich frag mich, ob ein Sturz aus dieser Höhe ausreicht, um mich umzubringen.“
-## Patrick: „… Wamborama, Wambologie, die Lehre des Wambo. Das ist doch für Erstklässler, SpongeBob!“
+# Wichtig
+- Patrick: „Es ist eingestellt auf ‚M‘ für ‚Mini‘! Wir stellen es einfach um (macht das) auf ‚W‘ für ‚Wambo‘!“
+- SpongeBob: „Ich weiß nicht … Ist Wambo ’n richtiges Wort?“
+- Patrick: „Na, hör mal! Weißt du, ich wambo, du wambo; er, sie, es wambo; wambo, wamboen, gewambot werden, gewambot haben …“
+- Thaddäus: (sieht hinunter) „Ich frag mich, ob ein Sturz aus dieser Höhe ausreicht, um mich umzubringen.“
+- Patrick: „… Wamborama, Wambologie, die Lehre des Wambo. Das ist doch für Erstklässler, SpongeBob!“
+
+
+
+
+# Ideen und so
+- Icon: seiten ablick von auto, bei auto hinzufügen
+- Datenbank auto: Welche & wie viel Equipment in einem auto
+- Datenbank auto: Abkürzung, Name, typ, Anz. MItfahrer
+-  
 
 <!--
 
